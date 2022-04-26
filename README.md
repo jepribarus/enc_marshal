@@ -14,6 +14,6 @@ $ python enc enc_marshal.py
 ```
 Cara Menjalankannya.
 masukan File yg ingin di enc Marshal Py3.
-Jika file berasa di Sdcard maka masukan perintah:
+Jika file berada di Sdcard maka masukan perintah:
 /sdcard/namafile.py
 ```
